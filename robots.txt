@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bogisgwasuge.github.io/sitemap.xml
